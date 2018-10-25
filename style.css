@@ -1,0 +1,43 @@
+.fp_pb{
+    background-color: cadetblue;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+
+.fp_pb h1{
+    font-size: 25px;
+    color:black;
+}
+
+.fp_pb p{
+    color: white;
+}
+
+.fp_pb hr{
+    border: 2px solid #83c9af
+}
+
+.header-bg {
+    background-color: black;
+    margin-bottom: 10px;
+}
+header div a{
+    margin-left: 5px;
+    text-decoration: none;
+    color: white;
+
+}
+
+header div a:hover{
+    color: #0fdb90;
+    text-decoration: none;
+}
+
+footer {
+     background-color: black;
+     color: white;
+     padding: 5px 0 5px 0;
+     text-align: center;
+     margin-top: 10px;
+}
